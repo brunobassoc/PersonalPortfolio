@@ -30,20 +30,20 @@ export const projectsData = [
     title: "N-Queens Puzzle",
     description:
       "Exploration of the N Queens Puzzle, analyzing algorithms for efficient solutions.",
-    tags: ["Pyhton"],
+    tags: ["Python"],
     imageUrl: whitequeen,
   },
   {
     title: "Recommendation Analysis on Spotify",
     description:
       "Case study on personalized song suggestions derived from user preferences and listening history.",
-    tags: ["Pyhton", "Apache Spark", "Tableau"],
+    tags: ["Python", "Apache Spark", "Tableau"],
     imageUrl: spotifystreams,
   },
 ] as const;
 
 export const skillsData = [
-  "Pyhton",
+  "Python",
   "Java",
   "HTML",
   "CSS",
